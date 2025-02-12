@@ -599,7 +599,7 @@ document.getElementById('announcement-btn').addEventListener('click', function()
 
 document.getElementById('learn-btn').addEventListener('click', function() {
     // 在新标签页打开学习页面
-    window.open('https://wangcy.cam/cd72ba646fea4e0fb3824581c88a023e', '_blank');
+    window.open('https://wangcy.my/cd72ba646fea4e0fb3824581c88a023e', '_blank');
 });
 
 document.getElementById('donate-btn').addEventListener('click', function() {
